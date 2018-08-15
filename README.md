@@ -1,4 +1,6 @@
 # Playing around with Risk probabilities in Rust
+*Note*: This is for the non-standard version of Risk where the defender can pick the number of dice he/she throws after having seen the throw of the attacker.
+
 This repo was made to answer some questions about probabilities in the board game Risk and to learn about the Rust programming language.
 
 The number of defenders is chosen based on the attacker throw to maximise the expected value of `loss attacker - loss defender`.
