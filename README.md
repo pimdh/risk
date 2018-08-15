@@ -34,7 +34,7 @@ Optimal strategy (attacker throw, number of defender dice):
 ```
 We see that in expectation a minimal advantage (0.0008 units per turn) exists for the defender, but the variance is high (1.0532 units^2 per turn).
 
-The optimal strategy for the defender is to use 1 die when the two highest dice of the attacker are (5, 4).
+The optimal strategy for the defender is to use 1 die when the two highest dice of the attacker are (5, 4) or better.
 
 ## 2 attackers, up to 2 defenders
 ```
